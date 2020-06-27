@@ -17,7 +17,7 @@
 # Raw dataset path
 DATASET_PATH="./dataset/example_dataset.html"
 # Parsed customers path
-CUSTOMERS_PATH="./out/example_customers.txt"
+CUSTOMERS_PATH="./example_out/example_customers.txt"
 
 # Clearing console to start
 clear
