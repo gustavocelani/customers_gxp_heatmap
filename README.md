@@ -1,5 +1,14 @@
 # Clipp Customers GXP Heatmap
 
+## Run
+
+```
+$ git clone https://github.com/gustavocelani/customers_gxp_heatmap.git
+$ cd customers_gxp_heatmap
+$ chmod +x full_run.sh
+$ ./full_run.sh
+```
+
 ## Dataset Parser
 
 ```
