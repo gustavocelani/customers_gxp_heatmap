@@ -19,7 +19,6 @@ Building JSON Dataset |███████████████████
 Acquiring Geolocation |████████████████████████████████| 11/11
 
 Parsed dataset saved successfully!
-
 ```
 
 ## Data Analysis
@@ -37,7 +36,6 @@ Customers path:  ./example_out/example_customers.txt
 Attributes Usage Analysis |████████████████████████████████| 11/11
 
 Attributes Percent Usage  |████████████████████████████████| 56/56
-
 ```
 
 ![Attributes Usage](example_out/example_attributes.png?raw=true "Attributes Usage")
@@ -61,7 +59,6 @@ Not Found Locations..........    5 [ 45.45% ]
 Out of GXP Locations.........    1 [  9.09% ]
                               ---------------
 Total Locations Used.........    5 [ 45.45% ]
-
 ```
 
 ![GXP Heatmap](example_out/example_gxp_heatmap.png?raw=true "GXP Heatmap")
